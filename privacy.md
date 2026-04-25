@@ -49,4 +49,4 @@ If we update this privacy policy, the revised version will be posted here with a
 If you have questions about this privacy policy, please contact:
 
 Robert Smith
-Email: [your email address]
+Email: [smithandapps@outlook.com]
