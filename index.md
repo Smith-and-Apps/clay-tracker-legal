@@ -2,7 +2,7 @@
 
 Documents for the Clay Tracker iOS and Android app.
 
-- [Privacy Policy](./privacy/)
-- [Terms of Service](./terms/) *(coming soon)*
+- [Privacy Policy](./privacy.html)
+- [Terms of Service](./terms.html) *(coming soon)*
 
 For support: smithandapps.outlook.com
